@@ -1,0 +1,9 @@
+details={
+    "name":"hilal",
+    "age":23,
+    "place":"kerala"
+         },{
+    "name":"hilalhj",
+}
+print(details[1])
+print(details[0].get("name"))
